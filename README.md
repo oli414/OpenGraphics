@@ -10,6 +10,10 @@
 
 Replacing every single sprite from RCT2 is a huge project. There are hundreds of thousands of sprites that need to be replaced, and this project is only just starting.
 
+## Contributing
+
+You can contribute by creating 3D models and/or textures. For [guidelines, measurements](https://github.com/oli414/Blender-RCT-Graphics) and a way to render your 3D models you can check out the [RCT Graphics Blender addon](https://github.com/oli414/Blender-RCT-Graphics). The lighting rig sample scene and addon will allow you to render sprites for your models from whichever angles you need with nearly exactly the same results as the original RCT2 graphics.
+
 ## License
 
 **OpenGraphics** is licensed under the GNU General Public License version 3.
